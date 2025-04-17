@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou Katheleenn Eduarda
+### 👋 Olá, eu sou Katheleen Eduarda
 - 🌱 Estou cursando graduação em ciência da computação, estou sempre procurando aprender e me aprofundar nas liguagens de programação, neste momento estou focada em Javascript e C.
 - 📫 Contate-me no email: katheleeneduarda123@gmail.com
 - 😄 Pronouns: ela/dela
